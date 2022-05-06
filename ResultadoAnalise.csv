@@ -1,0 +1,20 @@
+,Tipo,Resultado,Variaveis,Score
+0,FA,78.9902%,"['Credit_History', 'TotalIncome', 'Gender', 'Married', 'Dependents']",74.440%
+1,FA,79.9674%,"['Credit_History', 'TotalIncome', 'Gender', 'Married', 'Dependents', 'Education']",73.949%
+2,FA,79.4788%,"['Credit_History', 'TotalIncome', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed']",74.272%
+3,FA,77.8502%,"['Credit_History', 'TotalIncome', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Property_Area']",74.104%
+4,FA,71.8241%,"['TotalIncome_log', 'TotalIncome', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Property_Area']",68.407%
+5,FA,71.6612%,"['LoanAmount_log', 'TotalIncome', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Property_Area']",68.078%
+6,FA,79.3160%,"['Credit_History', 'TotalIncome', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'LoanAmount_log']",74.761%
+7,FA,79.3160%,"['Credit_History', 'TotalIncome', 'Gender', 'Dependents', 'Education', 'Self_Employed', 'LoanAmount_log']",74.106%
+8,FA,78.3388%,"['Credit_History', 'TotalIncome', 'Dependents', 'Education', 'Self_Employed', 'LoanAmount_log']",74.436%
+9,FA,71.6612%,"['TotalIncome', 'Dependents', 'Education', 'Self_Employed', 'LoanAmount_log']",67.426%
+10,FA,77.1987%,"['Credit_History', 'Gender', 'Married', 'Education']",76.228%
+11,FA,77.0358%,"['Credit_History', 'Gender', 'Married', 'Education']",76.553%
+12,FA,77.8502%,"['Credit_History', 'Loan_Amount_Term']",77.204%
+13,FA,79.4788%,"['Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Loan_Amount_Term', 'Credit_History', 'Property_Area', 'LoanAmount_log', 'TotalIncome_log']",71.666%
+14,FA,79.9674%,"['TotalIncome_log', 'LoanAmount_log', 'Credit_History', 'Dependents', 'Property_Area']",76.392%
+15,FA,100.0000%,"['TotalIncome_log', 'LoanAmount_log', 'Credit_History', 'Dependents', 'Property_Area']",74.113%
+16,FA,99.6743%,"['TotalIncome_log', 'LoanAmount_log', 'Credit_History', 'Dependents', 'Property_Area']",74.438%
+17,FA,79.6417%,"['TotalIncome_log', 'LoanAmount_log', 'Credit_History', 'Dependents', 'Property_Area']",77.039%
+18,FA,78.8274%,"['Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Loan_Amount_Term', 'Credit_History', 'Property_Area', 'LoanAmount_log', 'TotalIncome_log']",71.333%
